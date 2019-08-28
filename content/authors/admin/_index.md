@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Physics PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -65,6 +65,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student at Johns Hopkins University's Department of Physics and Astronomy, working with prof. Mark Robbins. My research mostly focuses on using Molecular Dynamics simulations to understand how material properties change when systems are driven out-of-equilibrium. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Over the years I have primarily worked on polymer physics, more specifically on how flow-induced alignment affects thermal welding between polymer interfaces and the resulting mechanical properties after the weld. The presence of alignment leads to strong non-equilibrium effects that change the dynamics of polymer chains and how they interact with each other (i.e. polymer entanglements), and this leads to interesting results for welded systems.
+
+Another line of research I pursue is about how material properties change under extreme conditions, particularly in the elastohydrodynamic lubrication (EHL) regime, where simple fluids are under extreme pressures and shear rates, causing the Newtonian viscosity to increase by several orders of magnitude while also presenting shear-thinning. Our work on this topic led us to participate in the 10th Industrial Fluid Properties Simulations Challenge, which we won by having the best theoretical prediction of the increase in Newtonian viscosity of 2,2,4-trimethylhexane with applied pressure.
