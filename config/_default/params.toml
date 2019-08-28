@@ -58,9 +58,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mgalvan1@jhu.edu"
+email = "mgalvan1.jhu.edu"
 phone = "410 516 8587"
-address = "Bloomberg Center for Physics & Astronomy, Johns Hopkins University, 3400 N Charles St, Baltimore MD 21218"
+address = "Bloomberg Center for Physics and Astronomy, Room 327 `<br>` 3400 N Charles St, Baltimore MD 21218"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
