@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tmh"
-authors: []
-date: 2019-08-28T03:09:54-04:00
-doi: ""
+title: "Determination of pressure-viscosity relation of 2,2,4-trimethylhexane by all-atom molecular dynamics simulations"
+authors: [MAG Cunha, MO Robbins]
+date: 2019-09
+doi: "https://doi.org/10.1016/j.fluid.2019.05.008"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-08-28T03:09:54-04:00
